@@ -12,4 +12,5 @@
 <ul>
   <li>understand with sequence of creating apps</li>
   <li>understand with principle of OOP concept</li>
+  <li>Unit Testing Junit5</li>
 </ul>
